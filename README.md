@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/net-trap" target="_blank">Anton</a> 
+<h1 align="center">Hi there, I'm <a href="https://github.com/net-trap" target="_blank">Parzival</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">15 y.o. programmer from Russia</h3>
+<h3 align="center">15 y.o. programmer from Moscow</h3>
 
 
 <h1 align="center">My skills👻</h1>
