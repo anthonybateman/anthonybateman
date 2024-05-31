@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/net-trap" target="_blank">Parzival</a> 
+<h1 align="center">Hi there, I'm <a href="https://github.com/net-trap" target="_blank">Anthony Bateman</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">16 y.o. programmer from Moscow</h3>
 
